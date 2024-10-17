@@ -1,0 +1,14 @@
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDE14C#\obj\Debug\net8.0\TDE14C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDE14C#\obj\Debug\net8.0\TDE14C#.AssemblyInfoInputs.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDE14C#\obj\Debug\net8.0\TDE14C#.AssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDE14C#\obj\Debug\net8.0\TDE14C#.csproj.CoreCompileInputs.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDE14C#\bin\Debug\net8.0\TDE14C#.exe
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDE14C#\bin\Debug\net8.0\TDE14C#.deps.json
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDE14C#\bin\Debug\net8.0\TDE14C#.runtimeconfig.json
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDE14C#\bin\Debug\net8.0\TDE14C#.dll
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDE14C#\bin\Debug\net8.0\TDE14C#.pdb
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDE14C#\obj\Debug\net8.0\TDE14C#.dll
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDE14C#\obj\Debug\net8.0\refint\TDE14C#.dll
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDE14C#\obj\Debug\net8.0\TDE14C#.pdb
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDE14C#\obj\Debug\net8.0\TDE14C#.genruntimeconfig.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDE14C#\obj\Debug\net8.0\ref\TDE14C#.dll
